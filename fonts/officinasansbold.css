@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'OfficinaSansCTTBold';
+    src: url('officinasansbold.eot');
+    src: url('officinasansbold.eot') format('embedded-opentype'),
+         url('officinasansbold.woff2') format('woff2'),
+         url('officinasansbold.woff') format('woff'),
+         url('officinasansbold.ttf') format('truetype'),
+         url('officinasansbold.svg#OfficinaSansCTTBold') format('svg');
+}
