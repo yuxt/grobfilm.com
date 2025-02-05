@@ -46,7 +46,7 @@ $(function() {
     $('#video').click(function(e) {
     e.preventDefault();
         $(this).css('height','auto');
-        $('.embed-container').html("<iframe src='http://player.vimeo.com/video/109673913?autoplay=true' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>");
+        $('.embed-container').html("<iframe src='https://player.vimeo.com/video/109673913?autoplay=true' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>");
         $('.embed-container').addClass('video-shadow');
     });
 
